@@ -3,7 +3,7 @@ abstract: ~
 author:
   - 'Nicholas Wehr C<< <nicholas.wehr@bionikchickens.com> >>'
 distribution_type: module
-generated_by: 'Module::Install version 0.80'
+generated_by: 'Module::Install version 0.79'
 license: perl
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html
@@ -17,4 +17,4 @@ requires:
   YAML::Syck: 0
 resources:
   license: http://dev.perl.org/licenses/
-version: 1.0
+version: 1.1
